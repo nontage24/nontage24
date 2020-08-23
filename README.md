@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there  👋 I'm Nont
+### 🔭 I’m currently working on it support @ hospital
+### 🌱 I’m currently learning Javascript ,nodeJS ,ReactJS ,VueJS ,Google Scripts
 
 <!--
 **nontage24/nontage24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
